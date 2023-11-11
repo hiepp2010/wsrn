@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1a7d1262-50e8-47bc-85d2-dde5dae59337" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../HFLGA_mC/Fuzzy-GA/cantren.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../HFLGA_mC/Fuzzy-GA/cantren.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HFLGA_mC/Fuzzy-GA/nangluongdichuyen=1-10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../HFLGA_mC/Fuzzy-GA/nangluongdichuyen=1-10.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HFLGA_mC/Fuzzy-GA/nangluongsac.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../HFLGA_mC/Fuzzy-GA/nangluongsac.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HFLGA_mC/Fuzzy-GA/seed=1-10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../HFLGA_mC/Fuzzy-GA/seed=1-10.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HFLGA_mC/ga-fuzzyfile.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../HFLGA_mC/ga-fuzzyfile.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HFLGA_mC/ga-fuzzyfile.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../HFLGA_mC/ga-fuzzyfile.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario2/HFLGA/cantren.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario2/HFLGA/nangluongdichuyen=1-10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario2/HFLGA/nangluongsac.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario2/HFLGA/seed=1-10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario2/HFLGA/thoigiandichuyenSeed=1-10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario2/inma/echarge/ga100.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario2/inma/echarge/ga125.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario2/inma/echarge/ga150.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario2/inma/echarge/ga175.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario2/inma/echarge/ga200.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario2/inma/echarge/ga225.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario2/inma/echarge/ga250.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario2/inma/echarge/ga300.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario2/inma/emove/ga100.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario2/inma/emove/ga125.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario2/inma/emove/ga150.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario2/inma/emove/ga175.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario2/inma/emove/ga200.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario2/inma/emove/ga225.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario2/inma/emove/ga250.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario2/inma/emove/ga300.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario2/inma/result/ga100.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario2/inma/result/ga125.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario2/inma/result/ga150.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario2/inma/result/ga175.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario2/inma/result/ga200.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario2/inma/result/ga225.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario2/inma/result/ga250.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario2/inma/result/ga300.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario2/scenario2_result.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario3/HFLGA/cantren.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario3/HFLGA/nangluongdichuyen=1-10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario3/HFLGA/nangluongsac.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario3/HFLGA/seed=1-10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario3/HFLGA/thoigiandichuyenSeed=1-10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario3/inma/echarge/ga100.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario3/inma/echarge/ga125.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario3/inma/echarge/ga150.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario3/inma/echarge/ga175.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario3/inma/echarge/ga200.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario3/inma/echarge/ga225.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario3/inma/echarge/ga250.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario3/inma/echarge/ga300.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario3/inma/emove/ga100.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario3/inma/emove/ga125.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario3/inma/emove/ga150.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario3/inma/emove/ga175.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario3/inma/emove/ga200.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario3/inma/emove/ga225.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario3/inma/emove/ga250.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario3/inma/emove/ga300.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario3/inma/result/ga100.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario3/inma/result/ga125.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario3/inma/result/ga150.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario3/inma/result/ga175.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario3/inma/result/ga200.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario3/inma/result/ga225.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario3/inma/result/ga250.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario3/inma/result/ga300.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario3/scenario3_result.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario4/HFLGA/cantren.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario4/HFLGA/nangluongdichuyen=1-10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario4/HFLGA/nangluongsac.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario4/HFLGA/seed=1-10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario4/HFLGA/thoigiandichuyenSeed=1-10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario4/inma/echarge/ga100.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario4/inma/echarge/ga125.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario4/inma/echarge/ga150.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario4/inma/echarge/ga175.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario4/inma/echarge/ga200.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario4/inma/echarge/ga225.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario4/inma/echarge/ga250.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario4/inma/echarge/ga300.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario4/inma/emove/ga100.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario4/inma/emove/ga125.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario4/inma/emove/ga150.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario4/inma/emove/ga175.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario4/inma/emove/ga200.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario4/inma/emove/ga225.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario4/inma/emove/ga250.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario4/inma/emove/ga300.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario4/inma/result/ga100.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario4/inma/result/ga125.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario4/inma/result/ga150.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario4/inma/result/ga175.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario4/inma/result/ga200.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario4/inma/result/ga225.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario4/inma/result/ga250.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario4/inma/result/ga300.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario4/scenario4_result.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario5/HFLGA/cantren.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario5/HFLGA/nangluongdichuyen=1-10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario5/HFLGA/nangluongsac.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario5/HFLGA/seed=1-10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario5/HFLGA/thoigiandichuyenSeed=1-10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario5/inma/echarge/ga100.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario5/inma/echarge/ga125.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario5/inma/echarge/ga150.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario5/inma/echarge/ga175.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario5/inma/echarge/ga200.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario5/inma/echarge/ga225.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario5/inma/echarge/ga250.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario5/inma/echarge/ga300.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario5/inma/emove/ga100.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario5/inma/emove/ga125.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario5/inma/emove/ga150.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario5/inma/emove/ga175.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario5/inma/emove/ga200.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario5/inma/emove/ga225.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario5/inma/emove/ga250.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario5/inma/emove/ga300.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario5/inma/result/ga100.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario5/inma/result/ga125.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario5/inma/result/ga150.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario5/inma/result/ga175.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario5/inma/result/ga200.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario5/inma/result/ga225.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario5/inma/result/ga250.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario5/inma/result/ga300.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario5/scenario5_result.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario6/HFLGA/cantren.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario6/HFLGA/nangluongdichuyen=1-10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario6/HFLGA/nangluongsac.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario6/HFLGA/seed=1-10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario6/HFLGA/thoigiandichuyenSeed=1-10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario6/inma/echarge/ga100.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario6/inma/echarge/ga125.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario6/inma/echarge/ga150.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario6/inma/echarge/ga175.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario6/inma/echarge/ga200.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario6/inma/echarge/ga225.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario6/inma/echarge/ga250.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario6/inma/echarge/ga300.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario6/inma/emove/ga100.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario6/inma/emove/ga125.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario6/inma/emove/ga150.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario6/inma/emove/ga175.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario6/inma/emove/ga200.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario6/inma/emove/ga225.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario6/inma/emove/ga250.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario6/inma/emove/ga300.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario6/inma/result/ga100.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario6/inma/result/ga125.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario6/inma/result/ga150.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario6/inma/result/ga175.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario6/inma/result/ga200.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario6/inma/result/ga225.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario6/inma/result/ga250.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario6/inma/result/ga300.txt/dead_details.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../experiment/dataset_JPD05/scenario6/scenario6_result.xlsx" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="24BrTwYeKrTD6DCGuKkxFlYbMNX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/optimizer/offlineoptimizer" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GraphConstruction\optimizer\offlineoptimizer" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.test">
+    <configuration name="experiment1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GraphConstruction" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main/experiment1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="runner_graphRL" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GraphConstruction" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main/runner_graphRL.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GraphConstruction" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.runner_graphRL" />
+        <item itemvalue="Python.experiment1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a7d1262-50e8-47bc-85d2-dde5dae59337" name="Default Changelist" comment="" />
+      <created>1643114835281</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1643114835281</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/optimizer/offlineoptimizer/GraphRL/FuzzyCS.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
